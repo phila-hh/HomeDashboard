@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.demotxt.droidsrce.homed;
+package com.demotxt.droidsrce.homedashboard;
 
 public final class R {
     public static final class attr {

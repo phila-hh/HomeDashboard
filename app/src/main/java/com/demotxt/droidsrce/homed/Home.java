@@ -1,14 +1,14 @@
-package com.demotxt.droidsrce.homed;
+package com.demotxt.droidsrce.homedashboard;
 
 import android.app.*;
 import android.os.*;
 
-public class MainActivity extends Activity 
+public class Home extends AppCompatActivity 
 {
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.activity_home);
     }
 }
