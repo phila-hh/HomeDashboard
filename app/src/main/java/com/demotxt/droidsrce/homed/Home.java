@@ -2,6 +2,8 @@ package com.demotxt.droidsrce.homedashboard;
 
 import android.app.*;
 import android.os.*;
+import android.support.v7.app.AppCompatActivity;
+
 
 public class Home extends AppCompatActivity 
 {
