@@ -1,7 +1,6 @@
 package com.demotxt.droidsrce.homedashboard;
 
-import android.app.*;
-import android.os.*;
+import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 
